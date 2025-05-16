@@ -1,0 +1,5 @@
+selenium>=4.0.0
+beautifulsoup4>=4.9.0
+pandas>=1.1.0
+streamlit>=1.0.0
+streamlit-copy-to-clipboard>=0.1.2 
